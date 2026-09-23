@@ -1,194 +1,98 @@
-# Alexandre | AI/ML Engineer & Automation Architect
+# Alexandre
 
-**Senior Full-Stack Developer** specializing in intelligent automation and AI agent systems  
-**Location:** Portimão, Portugal | **Availability:** 20-30h/week for strategic projects
+**AI automation & operations.** I take a business task, build the automation around
+it, and stay responsible for the result.
 
----
-
-## Professional Profile
-
-5+ years of hands-on experience building production-grade AI/ML solutions and intelligent automation systems. Proven track record of transforming business operations through advanced agent architectures, LLM integrations, and scalable full-stack applications.
-
-**Core Expertise:**
-- AI Agent Development (LangChain, CrewAI, AutoGen)
-- RAG Systems & Vector Databases (Pinecone, Weaviate, ChromaDB)
-- Full-Stack Development (React, TypeScript, Python, FastAPI)
-- Cloud Architecture (AWS, GCP, Supabase, Vercel)
-- Performance Marketing & Growth Engineering
-
-**Revenue Impact:**
-- Generated $100K+ monthly recurring revenue through automated workflows
-- Scaled affiliate programs to $3M+ across multiple markets
-- Built and led 3-person engineering team
-- Delivered 10+ production MVPs for SaaS platforms
+Portimão, Portugal · EU work authorization · Remote or Algarve · 20–30 h/week
+[LinkedIn](https://www.linkedin.com/in/alexandre-crowhub/) · [GitHub](https://github.com/FreeAiHub)
 
 ---
 
-## Technical Stack
+## What I do
 
-**AI & Machine Learning**
-```
-LangChain | CrewAI | OpenAI API | Anthropic Claude | Hugging Face
-RAG Architectures | Vector Embeddings | Semantic Search
-Prompt Engineering | Fine-tuning | Agent Orchestration
-```
+Ten years in digital business — performance marketing, affiliate, B2B partnerships,
+budgets, a team of three developers. The last two years: building and running
+LLM-based automation.
 
-**Backend Development**
-```
-Python (FastAPI, Django, Flask) | Node.js | PostgreSQL | Redis
-Supabase | Firebase | REST APIs | GraphQL | WebSockets
-```
+I am not a model researcher and I do not claim to be one. What I bring is the
+operator's side of AI: pick the tool that fits, wire it into the business process,
+ship it, and count what it costs and what it saves.
 
-**Frontend Development**
-```
-React 18 | TypeScript | Next.js | Vite | TailwindCSS
-Shadcn/ui | Framer Motion | TanStack Query | Zustand
-```
+I am deliberately not looking for model-training or ML-research roles.
 
-**DevOps & Infrastructure**
-```
-Docker | Kubernetes | GitHub Actions | Vercel | AWS Lambda
-Nginx | Monitoring (Prometheus, Grafana) | CI/CD Pipelines
-```
+## What I have built and run
 
-**Automation & Integration**
-```
-n8n | Zapier | Flowise | Make.com | Custom API Integrations
-Webhook Orchestration | Event-Driven Architecture
-```
+**A personal AI operations system** (2025–2026, ongoing). One laptop, no cloud
+beyond model calls: an orchestrator that takes a request, a separate executor model
+that does the work, speech in and out, memory in Markdown, and a runner that sends
+the same task to several models and records quality, latency and cost per run.
 
----
+Show its real state rather than a claim. **Working:** the executor, speech
+synthesis, live voice conversation, Telegram as a channel, the model-comparison
+runner. **Not working yet:** the orchestrator is several contours that have never
+been joined into one path, notes get lost between chats, the dashboard is down.
 
-## Case Studies
+**Content and publishing pipeline** (2026). Scheduled generation, review and
+publishing for own products through Telegram and a web panel, with logs and
+idempotent runs.
 
-Detailed project breakdowns with architecture decisions, technical implementations, and business outcomes.
+**Before AI** (2014–2023). Media buying and affiliate: budgets above $300K,
+1,000+ campaigns across Google Ads, Yandex and Meta; affiliate network presence
+across EU, US, Asia and CIS with 100+ traffic sources; owned PnL analytics
+(DAU/MAU, retention, LTV, CAC); led a team of three developers.
 
-### [Aspire and Amplify - Community Platform](./case-studies/aspire-and-amplify.md)
-**Full-stack community platform with real-time features**
-- Tech: React, TypeScript, Supabase, TanStack Query
-- Architecture: Component-driven development, real-time subscriptions
-- Focus: Type safety, performance optimization, scalable design
+## Repositories that show the work
 
-### [Texas Handyman - Service Business Website](./case-studies/texas-handyman.md)
-**Production website with automated lead management system**
-- Tech: React, TypeScript, Supabase, Vercel
-- Features: Lead capture, CRM integration, conversion tracking
-- Results: Deployed to production with edge functions
+| Repository | What it is |
+|---|---|
+| [talentflow-agent](https://github.com/FreeAiHub/talentflow-agent) | Recruiting automation end to end: Djinni parsing, storage, scoring, reply drafts, Telegram digest, 293 tests |
+| [bookas](https://github.com/FreeAiHub/bookas) | Product image synchronisation for a WooCommerce bookstore that uses it |
+| [ai-lab](https://github.com/FreeAiHub/ai-lab) | Self-hosted Docker stacks for agents, RAG and automation |
 
-### [Handyman Landing - Conversion-Optimized Template](./case-studies/handyman-landing.md)
-**High-conversion landing page template for service businesses**
-- Tech: React, TypeScript, Supabase
-- Focus: Mobile-first design, form optimization, backend integration
-- Deliverable: Reusable template for rapid deployment
+Two case studies in this repository: [Aspire and Amplify](./case-studies/aspire-and-amplify.md)
+and [Texas Handyman](./case-studies/texas-handyman.md).
 
----
+## Skills I can defend in a conversation
 
-## Work Approach
+- **Automation with LLMs**: prompt and model selection, cost/quality trade-offs,
+  retries, logs, daily budgets, response caching.
+- **Agent workflows** built with AI coding assistants; reading and fixing Python
+  I did not write from scratch.
+- **API and webhook integration**: JSON/YAML pipelines, OAuth, REST, idempotent jobs.
+- **Voice**: speech-to-text and text-to-speech providers, real-time loops, latency
+  and quality measurement.
+- **No-code / low-code**: Flowise, Dify, n8n-style flows, Telegram bots.
+- **Data**: SQLite, CSV pipelines, parsing, simple dashboards; cohort and
+  conversion analysis.
+- **Business**: offer design, pricing, funnel metrics, B2B partner relations, budgets.
 
-**Communication Style:**  
-Prefer structured workflows through project management systems (Jira, Linear, ClickUp, Notion, HubSpot) for clear documentation and async collaboration.
+## Tools I have used, not mastered
 
-**Development Philosophy:**
-- Code quality over quick hacks
-- Type safety and testing for production systems
-- Performance optimization from day one
-- Clean architecture and maintainability
-- Documentation-first for knowledge transfer
+Python (with AI assistance) · Docker (running stacks, not orchestrating clusters) ·
+Git and GitHub (day-to-day) · Linux/macOS shell · PostgreSQL · AWS/GCP (basic,
+exploratory).
 
-**Team Collaboration:**
-- Experience training junior/mid-level developers
-- Built content factory for AI education
-- Managed cross-functional teams (design, backend, marketing)
+## How I work
 
----
+- **Evidence over adjectives.** A claim without a file, a log or a number behind it
+  does not belong in a description of the work.
+- **A demo that runs beats a feature list that does not.**
+- **Write down what broke.** The failure is usually the useful part.
+- **Written task intake.** English in writing is stronger for me than English on a
+  call, and it leaves a trail both sides can check.
 
-## Portimão Office
+## Working together
 
-**Own dedicated workspace** in Portimão, Portugal with capacity to host 2-5 person team:
-- High-speed fiber internet (1Gbps)
-- Professional meeting setup
-- Whiteboarding and collaboration space
-- Time zone: WET/WEST (UTC+0/+1) - optimal for US East Coast & EU clients
+Available 20–30 h/week from Portimão. Contract form to be confirmed with an
+accountant before quoting terms.
 
----
+Good fit: AI integration, automation of an existing process, rescuing something
+that stopped working, affiliate and performance marketing analytics.
 
-## 2026 Goals
+Not a fit: model training and ML research, pure frontend or pure backend roles,
+long-term full-time employment.
 
-**Revenue Target:** $200K through diversified revenue streams
+## Contact
 
-**Strategic Focus:**
-1. **AI Agent Consulting** - Enterprise automation solutions ($80K target)
-2. **SaaS Products** - Recurring revenue from proprietary tools ($70K target)
-3. **R&D Partnerships** - Innovation projects with tech companies ($50K target)
-
-**Current Priorities:**
-- Exploring investment opportunities for MVP scaling
-- Open to fractional CTO / technical advisor roles
-- Building in public - documenting AI agent architectures
-
----
-
-## Professional Background
-
-**2020 - Present:** AI/ML Engineer & Automation Architect  
-Building intelligent automation systems, AI agents, and full-stack applications for clients across fintech, e-commerce, and SaaS verticals.
-
-**2015 - 2020:** Digital Business Director (CBDO)  
-Led growth initiatives in affiliate marketing, performance marketing, and product development. Scaled programs to multi-million dollar revenue.
-
-**Key Achievements:**
-- Designed and deployed 15+ AI-powered automation workflows
-- Built RAG systems processing 1M+ documents
-- Created training curriculum for AI/ML team onboarding
-- Contributed to open-source AI tooling (LangChain ecosystem)
-
----
-
-## International Experience
-
-Worked with distributed teams across 20+ countries, bringing diverse market perspectives:
-- North America (US, Canada)
-- Europe (UK, Germany, Portugal, Spain)
-- Asia-Pacific (Singapore, Australia)
-- Latin America (Brazil, Mexico)
-
-**Why Portugal?**  
-Optimal balance of lifestyle, tax efficiency, and time zone positioning for global client work. Established residency in 2023.
-
----
-
-## Working Together
-
-**Contract Structure:**  
-Service Agreement (Base + 35% tax) | Immediate availability: 20-30h/week
-
-**Ideal Projects:**
-- AI agent development and orchestration
-- RAG system architecture and implementation
-- Full-stack MVP development (0 → 1)
-- Technical due diligence for investors
-- R&D for innovative AI applications
-
-**Not a Fit:**
-- Pure frontend or pure backend roles (prefer full ownership)
-- Long-term full-time employment (prefer project-based)
-- Non-technical management positions
-
----
-
-## Contact & Investment Opportunities
-
-**Email:** am6223355@gmail.com  
-**LinkedIn:** [linkedin.com/in/alexandre-crowhub](https://www.linkedin.com/in/alexandre-crowhub/)  
-**Location:** Portimão, Portugal
-
-**Open to discussing:**
-- Consulting engagements (AI/ML, automation, full-stack)
-- Investment opportunities for SaaS MVPs
-- Technical partnerships for R&D projects
-- Fractional CTO/advisor roles for early-stage startups
-
----
-
-**Repository Updated:** January 2026
-**Status:** Actively seeking strategic partnerships and interesting technical challengesges
+Reach me on [LinkedIn](https://www.linkedin.com/in/alexandre-crowhub/) — that is
+the fastest channel.
